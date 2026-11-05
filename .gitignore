@@ -1,0 +1,7 @@
+/target
+**/*.rs.bk
+Cargo.lock
+*.pdf
+*.html
+*.report.json
+.DS_Store
